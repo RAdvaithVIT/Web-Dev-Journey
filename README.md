@@ -7,4 +7,6 @@ The projects may be related to HTML, CSS, JavaScript and more.
 2. Birthday Party Invite:
    This is another webpage designed using HTML. It acts as a birthday party invite, incorporating hyperlinks to Google Maps location and an image with alt text for blind users. 
 3. index.html:
-This is the first website I created with multiple webpages linked via hypertext and images. It is a small project on my portfolio. 
+This is the first website I created with multiple webpages linked via hypertext and images. It is a small project on my portfolio.
+4. Colour Vocab:
+This is my first project using both HTML and CSS to make colourful flashcards for the associated colours written in Spanish.
