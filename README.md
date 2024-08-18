@@ -14,3 +14,5 @@ The projects may be related to HTML, CSS, JavaScript and more.
    The project designs a very simple home-webpage for a web-design agency.
 6. Flag of Laos Project:
    Using CSS to create the flag of Laos. A simple exercise to learn CSS designing.
+7. Mondrian Painting:
+   It is an exercise on using CSS grids to create one of Mondrian's CSS paintings which sold for 50 million dollars.
