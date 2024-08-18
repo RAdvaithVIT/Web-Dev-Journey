@@ -12,3 +12,5 @@ The projects may be related to HTML, CSS, JavaScript and more.
    This is my first project using both HTML and CSS to make colourful flashcards for the associated colours written in Spanish.
 5. Web Design Agency Project:
    The project designs a very simple home-webpage for a web-design agency.
+6. Flag of Laos Project:
+   Using CSS to create the flag of Laos. A simple exercise to learn CSS designing.
