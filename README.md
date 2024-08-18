@@ -1,5 +1,5 @@
 # Web-Dev-Journey
-This contains my small projects and big projects regarding web development.
+This contains my small projects and big projects regarding web development. My capstone projects will be there in a separate repository, be sure to check that in my profile.
 The projects may be related to HTML, CSS, JavaScript and more. 
 
 1. Movie Recommendations:
